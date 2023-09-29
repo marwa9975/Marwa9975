@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **marwaosman9975@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3ORWruf](https://bit.ly/3ORWruf)
-
 - ⚡ Fun fact **I play Chase**
 
 <h3 align="left">Connect with me:</h3>
