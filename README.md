@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwa9975&label=Profile%20views&color=0e75b6&style=flat" alt="marwa9975" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning Models**
+- 🌱 I’m currently learning **Keras**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwa9975](https://github.com/marwa9975)
 
