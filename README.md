@@ -4,15 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwa9975&label=Profile%20views&color=0e75b6&style=flat" alt="marwa9975" /> </p>
 
-- 🌱 I’m currently learning **Keras**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwa9975](https://github.com/marwa9975)
 
 - 💬 Ask me about **Python, SQL, Machine learning, Tableau,Time series models, Data Visualization, Data Analysis**
 
 - 📫 How to reach me **marwaosman9975@gmail.com**
-
-- ⚡ Fun fact **I play Chase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
